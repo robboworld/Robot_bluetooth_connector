@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Robbot</string>
+    <string name="find_robbot">Find Robbot</string>
+    <string name="connected_devices">Connected Devices</string>
+    <string name="percents">%, Power</string>
+    <string name="go_straight">↑</string>
+    <string name="go_back">↓</string>
+    <string name="go_right">→</string>
+    <string name="go_left">←</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
